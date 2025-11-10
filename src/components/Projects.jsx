@@ -18,7 +18,7 @@ const projects = [
     title: "Portfolio Personnel",
     desc: "Site web personnel réalisé avec React pour présenter mon parcours et mes compétences.",
     tech: "ReactJS, CSS, JS",
-    github: "#",
+    github: "https://github.com/farah-oueslati/portfolio-numerique",
   },
 ];
 
